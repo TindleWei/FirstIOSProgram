@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>华大影城</string>
+		<key>tag</key>
+		<string>团</string>
+		<key>money</key>
+		<string>¥10.9起</string>
+		<key>place</key>
+		<string>玫瑰大楼</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>奥斯卡金花影城</string>
+		<key>tag</key>
+		<string>团</string>
+		<key>money</key>
+		<string>¥20起</string>
+		<key>place</key>
+		<string>高新路</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>中影国际影城（大唐西市店）</string>
+		<key>tag</key>
+		<string>团</string>
+		<key>money</key>
+		<string>¥31起</string>
+		<key>place</key>
+		<string>劳动南路</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>时光私人视听影院</string>
+		<key>tag</key>
+		<string>团</string>
+		<key>money</key>
+		<string>¥58起</string>
+		<key>place</key>
+		<string>科技路西口</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>橙天嘉禾影城（怡丰店）</string>
+		<key>tag</key>
+		<string>团</string>
+		<key>money</key>
+		<string>¥29起</string>
+		<key>place</key>
+		<string>怡丰城／西荷花园</string>
+	</dict>
+</array>
+</plist>
